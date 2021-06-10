@@ -23,9 +23,16 @@ cd ignite-reactjs-challange-01
 yarn
 ```
 
-### Execute the application
+## Use
+
+Run in the terminal
 ```
 yarn dev
+```
+
+Access the a url
+```
+http://localhost:8080
 ```
 
 ## Licence
