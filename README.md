@@ -23,5 +23,10 @@ cd ignite-reactjs-challange-01
 yarn
 ```
 
+### Execute the application
+```
+yarn dev
+```
+
 ## Licence
 MIT
