@@ -1,4 +1,4 @@
-# Ignite with ReactJS: challange-01 - concepts from ReactJS
+# Ignite with ReactJS: challenge-01 - concepts from ReactJS
 <br>
 
 #### Status: **Concluded** ✅
@@ -16,9 +16,9 @@ App of type todo list what helps to apply the concepts from ReactJS
 
 ## Installation
 ```
-git clone https://github.com/al-pereira/ignite-reactjs-challange-01.git
+git clone https://github.com/al-pereira/ignite-reactjs-challenge-01.git
 
-cd ignite-reactjs-challange-01
+cd ignite-reactjs-challenge-01
 
 yarn
 ```
